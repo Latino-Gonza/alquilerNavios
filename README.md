@@ -14,3 +14,13 @@ La empresa MAKAIA, dedicada al alquiler de embarcaciones, necesita un sistema pa
 
 
 
+--------------------------------------------------------------------------------------
+
+
+ Eh explorado cómo aplicar conceptos de programación orientada a objetos para resolver un problema real.  diseñado clases, implementado métodos y creado un sistema de gestión de alquiler y venta  de embarcaciones para MAKAIA. Comprendiendo cómo los principios de la programación orientada a objetos pueden aplicarse en situaciones del mundo real.
+
+ -------------------------------------------------------------------------------------
+
+ 
+
+
